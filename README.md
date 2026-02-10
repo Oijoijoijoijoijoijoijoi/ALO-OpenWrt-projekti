@@ -1,2 +1,2 @@
-# ALO-OpenWrt-projektity-
+# ALO-OpenWrt-projekti
 Niih.
